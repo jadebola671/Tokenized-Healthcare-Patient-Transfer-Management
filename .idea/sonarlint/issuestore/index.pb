@@ -5,3 +5,5 @@ P
  contracts/care-coordination.clar,a/6/a68567c00344e47e192b1760a9690b17c3762acd
 T
 $contracts/facility-verification.clar,8/4/846317c1e114e49185758a0163ab152909b6c720
+V
+&contracts/medical-record-transfer.clar,1/f/1fac46e2e145cd5ed1aef5d21b9174ae2c77db5d
