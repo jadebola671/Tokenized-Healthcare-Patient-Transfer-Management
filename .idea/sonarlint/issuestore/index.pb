@@ -7,3 +7,5 @@ T
 $contracts/facility-verification.clar,8/4/846317c1e114e49185758a0163ab152909b6c720
 V
 &contracts/medical-record-transfer.clar,1/f/1fac46e2e145cd5ed1aef5d21b9174ae2c77db5d
+S
+#contracts/patient-verification.clar,a/5/a53a8fcc82ce2eb7cfe61ba821429022b36b1494
